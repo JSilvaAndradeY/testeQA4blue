@@ -1,15 +1,15 @@
-# Teste Técnico - QA Tester (4blue) 🐛
+# Teste Técnico - QA Tester (4blue) 
 
-[cite_start]Este repositório contém a documentação e a análise de testes manuais exploratórios realizados no microssistema disponibilizado para o processo seletivo da **4blue**[cite: 2, 3].
+Este repositório contém a documentação e a análise de testes manuais exploratórios realizados no microssistema disponibilizado para o processo seletivo da **4blue**.
 
 ## 💻 Sistema Testado
-[cite_start]**Acesso:** [https://qa-play-sim.lovable.app/](https://qa-play-sim.lovable.app/) [cite: 12]
+**Acesso:** [https://qa-play-sim.lovable.app/](https://qa-play-sim.lovable.app/) 
 
 ## 🎯 Objetivo da Avaliação
 Explorar o sistema livremente para identificar, relatar e priorizar:
-- [cite_start]Bugs funcionais [cite: 8]
-- [cite_start]Inconsistências de experiência do usuário (UX/UI) [cite: 9]
-- [cite_start]Problemas básicos de segurança [cite: 10]
+- Bugs funcionais 
+- Inconsistências de experiência do usuário (UX/UI) 
+- Problemas básicos de segurança 
 
 ---
 
@@ -143,7 +143,7 @@ Abaixo estão descritos os 13 bugs identificados durante a execução dos testes
 
 ## 📌 Conclusão e Priorização
 
-### [cite_start]Quais 2 bugs você corrigiria primeiro e por quê? [cite: 34]
+### Quais 2 bugs você corrigiria primeiro e por quê?
 
 Com base na análise de impacto ao negócio e à segurança, a correção prioritária seria:
 
@@ -152,7 +152,7 @@ Com base na análise de impacto ao negócio e à segurança, a correção priori
 
 ---
 
-## [cite_start]💡 Sugestões de Melhorias [cite: 35]
+## 💡 Sugestões de Melhorias
 
 Durante os testes, identifiquei oportunidades para tornar a aplicação mais robusta, amigável e segura:
 
@@ -173,4 +173,4 @@ Durante os testes, identifiquei oportunidades para tornar a aplicação mais rob
 ---
 
 **Autor:** Ykaro Andrade  
-[cite_start]*Análise realizada para a vaga de QA Tester da 4blue.* [cite: 2]
+*Análise realizada para a vaga de QA Tester da 4blue.*
